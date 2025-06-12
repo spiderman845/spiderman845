@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Yasir Latif
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Architect;Tech+Lead;Solution+Designer;System+Builder;Team+Mentor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Architect;Tech+Lead;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -48,13 +48,13 @@ I'm a seasoned Software Architect and Tech Lead with a passion for designing sca
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spiderman845&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=spiderman845&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spiderman845&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spiderman845&theme=merko&hide_border=true" alt="GitHub Streak" />
+  </div>
 
 
 
