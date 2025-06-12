@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a seasoned Software Architect and Tech Lead with a passion for designing scalable systems and leading high-performing engineering teams. I specialize in building robust architectures and mentoring developers to achieve excellence.
+I'm a seasoned Software Architect and Tech Lead with a passion for designing scalable systems. I specialize in building robust architectures.
 
 ## 🛠️ Architecture & Tech Stack
 
@@ -56,15 +56,7 @@ I'm a seasoned Software Architect and Tech Lead with a passion for designing sca
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spiderman845&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderman845&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spiderman845&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 
 
