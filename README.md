@@ -66,22 +66,7 @@ I'm a seasoned Software Architect and Tech Lead with a passion for designing sca
   <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🌟 Featured Projects
 
-### 🚀 [Microservices Platform](https://github.com/YourUsername/microservices-platform)
-Scalable microservices architecture built with Go, featuring service discovery, load balancing, and distributed tracing.
-
-**Tech Stack:** Go, Kubernetes, Docker, PostgreSQL, Redis
-
-### 🎯 [DevOps Pipeline Automation](https://github.com/YourUsername/devops-automation)
-End-to-end CI/CD pipeline with infrastructure as code, automated testing, and monitoring integration.
-
-**Tech Stack:** Go, Terraform, Jenkins, Ansible, Prometheus
-
-### 💡 [Distributed Event System](https://github.com/YourUsername/event-system)
-High-throughput event-driven system for real-time data processing and analytics at enterprise scale.
-
-**Tech Stack:** Go, Apache Kafka, Redis, MongoDB, Grafana
 
 ## 📈 Activity Graph
 
