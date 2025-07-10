@@ -46,19 +46,6 @@ I'm a seasoned Software Architect and Tech Lead with a passion for designing sca
 ![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
-## 📊 GitHub Stats
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=spiderman845&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" />
-  </div>
-
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=spiderman845&theme=merko&hide_border=true" alt="GitHub Streak" />
-  </div>
-
-
-
-
 
 ## 📈 Activity Graph
 
