@@ -64,25 +64,10 @@ I architect solutions and design systems — defining how components interact, w
 ### System & Solution Design
 
 ```
-System Design  ·  Solution Architecture  ·  Capacity Planning  ·  Technology Selection
+System Design  ·  Solution Architecture  ·  Technology Selection
 Microservices  ·  Event-Driven Architecture  ·  Domain-Driven Design  ·  Clean Architecture
 CQRS  ·  Event Sourcing  ·  API-First Design  ·  Hexagonal Architecture
 ```
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=spiderman845&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=spiderman845&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spiderman845&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
 
 ---
 
